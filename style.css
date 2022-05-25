@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+button:hover {
+    cursor: pointer;
+}
+#hidden {
+    display: none;
+}
+input[type=text] {
+    width: 5rem;
+}
